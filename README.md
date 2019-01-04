@@ -43,8 +43,9 @@ fuel = [639971, 1162112, 484687, 4496253, 934538, 708052, 23647, 5776215, 646717
 
 Problem 2:
   For an extension to problem 1, try to create another list that contains all the fuel values that don't work with the 
- data for the rockets. There is an example file that you can referance for a starting point. Good Luck! 
- (You should be able to sort out three numbers from the list below) 
+ data for the rockets. For a starting point, try to create a record of all previously used fuel values and compare them to the
+ entire list of fuel values at the end of the program. Good Luck! 
+ (You should be able to sort out three numbers from the list below. Keep the dictionary of rockets above but replace the fuel values.) 
  
 fuel = [484687, 983245, 89432, 5776215, 708052, 23647, 6467175, 639971, 4496253, 6223146, 1162112, 934538, 2814527, 32432]
 
