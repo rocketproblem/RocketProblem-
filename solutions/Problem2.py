@@ -12,7 +12,7 @@ rockets = {'rocket11': {'fuel': None, 'distance': 1590, 'weight': 175},
 'rocket6': {'fuel': None, 'distance': 533, 'weight': 131},
 'rocket1': {'fuel': None, 'distance': 426, 'weight': 148}}
 
-fuel = [639971, 1162112, 484687, 4496253, 934538, 708052, 23647, 5776215, 6467175, 6223146, 2814527]
+fuel = [484687, 983245, 89432, 5776215, 708052, 23647, 6467175, 639971, 4496253, 6223146, 1162112, 934538, 2814527, 32432]
 
 #These are lists to be used later when sorting out unused fuel values
 usedfuelvalues = []
