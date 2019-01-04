@@ -16,7 +16,7 @@ Problem 1:
 Our first problem requires you to create a program that sorts through our rocket distance an weight data and link them to 
 the seperated fuel data. All we know is that every 50 km an empty rocket will take 1000 kg of fuel. However, for every kg 
 more cargo, the rocket will require 10 kg more fuel for each km. (You do not need to worry about more fuel creating more
-weight). If you find yourself needing a bit of guidence you can referance the example files. After you have solved the 
+weight). The biggest problem is the fuel consumption can vary 1000 kg up or down from the mathimatical predicted value. Watch Out! If you find yourself needing a bit of guidence you can referance the example files. After you have solved the 
 problem, you can look at the solutions to check your answer. Good Luck!  
 
 Here is the data set for the first problem:
